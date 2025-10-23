@@ -84,7 +84,9 @@ necessary_files/
 - `android/app/build.gradle` (or `.kts`) - Signing configuration added
 - `android/app/build.gradle.backup` - Backup of original file
 
----
+---  
+
+
 
 ## ⚙️ Advanced Customization
 
