@@ -4,6 +4,7 @@
 سكريبت تلقائي لإنشاء Android Keystore و Code Signing
 يعمل تلقائياً عند رفع المشروع لأول مرة
 
+
 الاستخدام:
     python setup_keystore.py
 """
